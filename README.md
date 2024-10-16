@@ -1,4 +1,4 @@
-# Binary-number-system
-Program to convert binary number system
+# Binary-number-system ---{group winners}---
 
-Digital logic assignment
+Program to convert Binary Number System
+
